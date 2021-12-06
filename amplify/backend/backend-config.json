@@ -33,5 +33,12 @@
       "type": "cicd",
       "lastPushTimeStamp": "2021-12-06T20:37:52.627Z"
     }
+  },
+  "function": {
+    "917651aca61e": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
   }
 }
